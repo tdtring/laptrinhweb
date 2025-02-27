@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "BCC3 
+=======
+"BCC2 "
+>>>>>>> bangcuuchuong2
